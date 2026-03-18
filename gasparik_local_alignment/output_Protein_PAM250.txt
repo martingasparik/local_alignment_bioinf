@@ -1,0 +1,20 @@
+
+LOCAL ALIGNMENT (PAM250)
+Gap open:   -10  |  Gap extend: -0.5
+Max score:  315.0
+Length:      148
+Identity:   54/148 (36.5%)
+Simularity: 106/148 (71.6%)
+Gaps:       8/148 (5.4%)
+
+Seq1     2  VHLTDAEKSAVSCLWAKVN--PDEVGGEALGRLLVVYPWTQRYFDSFGDLSSASAIMGNP
+            ..||..|.......|||..  .|..|.|.|.||....|.|..||..| ||..     |..
+Seq2     1  MSLTKTERTIIVSMWAKISTQADTIGTETLERLFLSHPQTKTYFPHF-DLHP-----GSA
+
+Seq1    60  KVKAHGKKVITAFNEGLKNLDNLKGTFASLSELHCDKLHVDPENFRLLGNAIVIVLGHHL
+            ...|||.||..|.....|..|...|....|||||...|.|||.||.||.......|....
+Seq2    55  QLRAHGSKVVAAVGDAVKSIDDIGGALSKLSELHAYILRVDPVNFKLLSHCLLVTLAARF
+
+Seq1   120  GKDFTPAAQAAFQKVVAGVATALAHKYH
+            ..|||..|.||..|....|...|..||.
+Seq2   115  PADFTAEAHAAWDKFLSVVSSVLTEKYR

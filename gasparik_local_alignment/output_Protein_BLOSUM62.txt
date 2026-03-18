@@ -1,0 +1,20 @@
+
+LOCAL ALIGNMENT (BLOSUM62)
+Gap open:   -10  |  Gap extend: -0.5
+Max score:  260.5
+Length:      145
+Identity:   55/145 (37.9%)
+Simularity: 86/145 (59.3%)
+Gaps:       8/145 (5.5%)
+
+Seq1     4  LTDAEKSAVSCLWAKVNP--DEVGGEALGRLLVVYPWTQRYFDSFGDLSSASAIMGNPKV
+            ||..|.......|||...  |..|.|.|.||....|.|..||..| ||...||     ..
+Seq2     3  LTKTERTIIVSMWAKISTQADTIGTETLERLFLSHPQTKTYFPHF-DLHPGSA-----QL
+
+Seq1    62  KAHGKKVITAFNEGLKNLDNLKGTFASLSELHCDKLHVDPENFRLLGNAIVIVLGHHLGK
+            .|||.||..|.....|..|...|....|||||...|.|||.||.||.......|......
+Seq2    57  RAHGSKVVAAVGDAVKSIDDIGGALSKLSELHAYILRVDPVNFKLLSHCLLVTLAARFPA
+
+Seq1   122  DFTPAAQAAFQKVVAGVATALAHKY
+            |||..|.||..|....|...|..||
+Seq2   117  DFTAEAHAAWDKFLSVVSSVLTEKY

@@ -1,0 +1,168 @@
+
+LOCAL ALIGNMENT (EDNAFULL)
+Gap open:   -9.5  |  Gap extend: -0.5
+Max score:  1139.0
+Length:      2391
+Identity:   960/2391 (40.2%)
+Simularity: 960/2391 (40.2%)
+Gaps:       1077/2391 (45.0%)
+
+Seq1     4  ATTAG-CTGCGAGG-ATAAGAA---CA-GACACT----ACTCAGAG-------TGAGACC
+            ||.|| |||  ||| |.|||||   |. || ||.    |.||||||       ||||   
+Seq2     4  ATGAGGCTG--AGGCAGAAGAATCACTTGA-ACCAGGGAGTCAGAGGTTGCAGTGAG---
+
+Seq1    47  CAGAACTCAAATG-TCTTAAGCCTGTGCCATAGCCACCCTGTG-------TAGATATGGT
+                   |... | ||..|  ||..|||..|  ||||||||.|       |.||.||   
+Seq2    58  -------CTGG-GATCGCA--CCACTGCACT--CCACCCTGGGCGACAAATCGAGAT---
+
+Seq1    99  TGTC-ATCTC------------------T-----GAA-----GCCTCACCCTG---CAAG
+              || |||||                  |     |||     ||||||...||   ||| 
+Seq2   103  --TCCATCTCAAAAAAAGAAAAAAAAATTAAAAGGAATATTTGCCTCATTATGTTACAA-
+
+Seq1   127  NTAACACCCCTGGCATNGGCCAATCTGCTCAGAGAGGACAGAGTGGGCAGGAGCCAGCAT
+             ||||           .    |||.||    ||.||  ||...|.|           ||.
+Seq2   160  -TAAC-----------T----AATATG----GAAAG--CAATATTG-----------CAA
+
+Seq1   187  TGGGTATATAAAGC-TGAGCAGGNTCAGTTGC-TTCTTACNTTTG---------CTTCTG
+            ||..||| ||...| ||| ||   |.||.||. ||||  |.||||         ||.|||
+Seq2   187  TGCCTAT-TAGCACATGA-CA---TTAGGTGAATTCT--CCTTTGTCCCCGGACCTGCTG
+
+Seq1   236  AGTC----TGTTGTGTTGACTTGCA----ACTTCAGAAACAG-ACATC-------A----
+            ..||    ||.| |||       ||    ||   |||..||| |||||       |    
+Seq2   240  CCTCCTCCTGCT-TGT-------CAGGGGAC---AGATCCAGTACATCTCCCCTCAGCGC
+
+Seq1   276  T-GGTGCACCTGACTGATGCT---------------------------GAGA-------A
+            | ||||.||||.||...||||                           ||.|       |
+Seq2   289  TGGGTGGACCTAACCCTTGCTTTCTTGGAGGAAACCCAGGAATCCAGAGACAAAGTGGAA
+
+Seq1   301  GTCTGCTGTCTCTTGCCTGTGG----GCAAAGGTGAACCCCGATGAAGTTGGTGGTGAGG
+            |..|.|||      ||.|||||    |||..|.||     |. |||.||.|||| |.||.
+Seq2   349  GGGTACTG------GCATGTGGTTGGGCAGGGCTG-----CC-TGAGGTCGGTG-TCAGC
+
+Seq1   357  C---CCTGGGCAGGTTGGTATCC--AGG----TTACAAGGCA--G---CTCA--------
+            |   |.||||  |.|||||..|.  |||    ||||..|||.  |   |||.        
+Seq2   396  CGACCGTGGG--GCTTGGTCCCAGGAGGCTGCTTACTGGGCCCTGCTCCTCTGGTTTCCC
+
+Seq1   395  -CAAGTAG----------------AAGCTGGGTGCTTGGAGACAGA--GGTCTGCTTTCC
+             |||||.|                |||...|||||      |.| |  ||.||.|..   
+Seq2   454  CCAAGTCGTGATTCTGAAATGAATAAGGACGGTGC------AGA-ACTGGACTACAA---
+
+Seq1   436  A-GCAGGCACTAACTTTC----AG--TGT--CCCCTGTCTATGTTTCCCTTTTTAGGCTG
+            | ||||| |.|.||||.|    ||  ||.  |||||.|||        ||..| ||.|| 
+Seq2   504  ATGCAGG-AGTGACTTCCTGGGAGGGTGGGGCCCCTATCT--------CTCCT-AGACT-
+
+Seq1   487  CTG------G--T-TGTCT---A--CCCTTG-------------------------GA--
+            |||      |  | ||.|.   |  ||||..                         ||  
+Seq2   553  CTGTGGTCAGACTCTGGCCAACACCCCCTGTAAGGCCACAGGAGAGGAACAGGAGTGACA
+
+Seq1   506  -----------------------CCCAGC-GGTAC-TTTGATAGC---TTTG----GAGA
+                                   |||.|. ||..| ||||..|..   |.||    ||.|
+Seq2   613  GCCCCCAAACCCCAGTCCCACAGCCCTGAGGGCCCCTTTGTCACTGGATCTGATAAGAAA
+
+Seq1   534  C-CTATCCTCTGC------CTCTGCTATCATGGGTAAT---CCCAA----GGTGAAGGCC
+            | |.|.|| ||||      |||..||..|.||...|||   |.||.    |.||  ||||
+Seq2   673  CACCACCC-CTGCAGCCCCCTCCCCTCACCTGACCAATGGCCACAGCCTGGCTG--GGCC
+
+Seq1   580  CA------TGGCAAAAAGGTGATAACTGCCTTTAACGAGGGCCTGAAAAACCTGG-ACAA
+            ||      ||...|.||||.||       |..|   | |||.||||        | ||.|
+Seq2   730  CAGCTCCCTGTATATAAGGGGA-------CCCT---G-GGGGCTGA--------GCACTA
+
+Seq1   633  CCTCAAGGGCA--CCTTTGCCAG-CC---T-CAGTG-AGCT-------------------
+            ||  ||||.||  |||..||..| ||   | ||||| ||||                   
+Seq2   771  CC--AAGGCCAGTCCTGAGCAGGCCCAACTCCAGTGCAGCTGCCCACCCTGCCGCCATGT
+
+Seq1   666  ------CC---ACTGT---GACAAGC----TG--CATGTGG-------------------
+                  ||   ||||.   |||.|.|    ||  |||||||                   
+Seq2   829  CTCTGACCAAGACTGAGAGGACCATCATTGTGTCCATGTGGGCCAAGATCTCCACGCAGG
+
+Seq1   689  --------ATC----CTGAGAACT-TC-AG-GGTGAGTCT--GATGGGCACCTCC-----
+                    |||    |.|||| || |. || |||||||.|  ||.||| ||..||     
+Seq2   889  CCGACACCATCGGCACCGAGA-CTCTGGAGAGGTGAGTGTCAGACGGG-ACTGCCAGAGG
+
+Seq1   727  ---TGGGTTTCCTTCCCCTGGCTAT--------------T----------C--TGCTCA-
+               |||||......  ||.|| |||              |          |  ||...| 
+Seq2   947  GACTGGGTGGGAGG--CCAGG-TATGTGAGTGGGGACAGTGGGGAGGGGGCGGTGGGGAG
+
+Seq1   757  ---ACCTT----------CCTATC-AGAAG-GAAA--GGGGAAGCGATTCTAGGGAG---
+               ||..|          || ||. |||.| ||.|  |||||.|.||...|.|||||   
+Seq2  1004  GGGACAGTGGGGAGGGGACC-ATGGAGAGGAGACAGTGGGGAGGGGACAGTGGGGAGAGG
+
+Seq1   797  -CAGT-------------T-------------TCGATGATGGT---GTGTGGATGTGA-A
+             ||||             |             | ||.||.||.   |||..||.|.|| |
+Seq2  1063  ACAGTGAGGAGGGGACCTTGGGGAGGGGACAGT-GAGGAGGGAACCGTGGAGAGGGGACA
+
+Seq1   826  TTGTG--------AGTGTTGACTAGAGTTTGGATA-TTTTATTCTCTAC--TCAGAAT-T
+            .||.|        ||||..|||   ||.|.|||     ||.  |.|.||  ||.|     
+Seq2  1122  GTGAGGAAGGGACAGTGAGGAC---AGATAGGA--G--TTG--CACAACCATCTG---G-
+
+Seq1   874  GCT-GCTC---CCT-------CTCA--CTCTG-TTCTG--------------------TT
+            ||| |||.   |||       |.||  |.|.| |||||                    ||
+Seq2  1169  GCTCGCTGAGACCTGGGCAGGCACAGGCCCAGGTTCTGACAAGCAGAGGGTGAAAGGTTT
+
+Seq1   900  C-TTCTGTGTTGTCATTTCCT-------CTTTCTTGGNTAAGTTTTAATTTTCAGTTGCA
+            | ||||. |  |      |||       |||.|..||.         |..  |||. |||
+Seq2  1229  CGTTCTA-G--G------CCTGAAGGGCCTTACAGGGC---------AGC--CAGG-GCA
+
+Seq1   952  NT------TTTAAAGT----GCATCTTTTATCT----ACTTTCTGTTTTC--T-TTTCAA
+            .|      |.||||||    ||||||...|||.    |||.||.     |    || |||
+Seq2  1268  CTACAGCCTCTAAAGTCCCAGCATCTGGGATCAGGGCACTGTCC-----CAG-CTT-CAA
+
+Seq1   995  ATATATCCTGGTATCTTA----CTCTGAGGA-CAANAAGATAAATGATTCTCTGATCCTT
+            ||   |||..|.||||.|    ||..||||. |.|   |.     ||.   ||..|||||
+Seq2  1321  AT---TCCCAGCATCTGATCCCCTGGGAGGGGCCA---GG-----GAG---CTTTTCCTT
+
+Seq1  1050  TCC----ACAGTTCTAATGAATTATAGGGCGATAATTGGCTTTTAGGATAGGACAATAAG
+            .||    ||..|.||           |||.|.|.||..||.|..||.|..||    |  |
+Seq2  1367  CCCTGGAACGCTGCT-----------GGGAGGTCATGAGCCTGCAGAAGGGG----T--G
+
+Seq1  1106  G------AAG-AGTATATTTTGTGGCT-------AAATTTTGTNTGTCATAGNNTAATTC
+            |      |.. |||.|     |.||||       |..|..|||  |.|            
+Seq2  1410  GCGGGCAACCCAGTCT-----GGGGCTGGGAGGGAGGTCCTGT--GGC------------
+
+Seq1  1152  TTTTTTATTTTTTATTTATTATTTTTTTCATAGAATAATTCTTATCAAAATTGACCAGTA
+                                        ||.||.               |  || |.||.
+Seq2  1451  ----------------------------CAGAGG---------------A--GA-CGGTG
+
+Seq1  1212  GA------------ACCCAGC-TGCCATTTTACCTATNTTTG------A-------AGAT
+            ||            |||..|| |||              |.|      |       ||||
+Seq2  1465  GAGGGGCTGGGGGCACCAGGCGTGC--------------TGGAGGCGGAGGGCGGGAGAT
+
+Seq1  1246  T-----AT-AA-CTGTA---AATTCCATTTGAAATC-GGCCTTCAGC-----ATCT----
+            |     |. |. |||.|   ||. ||.|..|||... |||..|||||     |.||    
+Seq2  1511  TTGGGGACCAGGCTGCACAGAAC-CCGTCGGAAGCAGGGCGATCAGCCGGGGAGCTGCGG
+
+Seq1  1286  ---TGTATTCTTG---CTCTACTTCATATTGATGCGTCTTCTGTCTTCCC--A----CAG
+               ||..     |   |||||...||         |..  |.|.||.     |    |||
+Seq2  1570  GCCTGGG-----GGGCCTCTAGCCCA---------GGG--CAGCCTG---GGAGGGGCAG
+
+Seq1  1334  CT-CCTAGGCAAT--------GCGATCGTGATTGTGCTGGG-CCACCACCTGGG---CAA
+            || |||.||||..        ||||    |...|.|||||| ||..|..|.|||   || 
+Seq2  1611  CTGCCTGGGCACCCGGGCCCCGCGA----GGAGGGGCTGGGGCCTGCTGCGGGGTCGCA-
+
+Seq1  1381  GGATTTCACCCC-TGCT-GCACAGGCTGCCTTCCAGAAGG--T-GG---TGGCTGGAGTG
+             |||.|..|||. |||| |.|.|||  |||.  |||...|  | ||   ||||.||||  
+Seq2  1666  -GATGTGTCCCGGTGCTCGGAGAGG--GCCG--CAGGGCGCGTGGGCCGTGGCGGGAG--
+
+Seq1  1433  GCCAC--TGCCCTG-GCTCACA------------A-GTACCA--------CTAAGCC---
+            |||.|  |||...| ||||||.              ||.|||        ||.||||   
+Seq2  1719  GCCGCGCTGCTGGGAGCTCACGGCCCCCGCCCCC-CGTCCCAGGCTCTTCCTCAGCCACC
+
+Seq1  1466  ------------CCT--TTTCTGCTATT-GTCTA-TGCACAAAGGTT------ATATGTC
+                        |||  ||.|.||..|| |.|   |||||...||.|      |..||..
+Seq2  1778  CGCAGACCAAGACCTACTTCCCGCACTTCGAC--CTGCACCCGGGGTCCGCGCAGTTGCG
+
+Seq1  1504  CCCT-AGAG----AAAAACTGTCAAGT-----GTNGG-GAAATGATNNAGACCTTTG--G
+            |.|. |..|    ||.    ||...|.     ||.|| ||...|.|..|||.|.|.|  |
+Seq2  1836  CGCGCACGGCTCCAAG----GTGGTGGCCGCCGTGGGCGACGCGGTGAAGAGCATCGACG
+
+Seq1  1551  GCATCTA----GCTTTTATCTAA--TAAATGAT--ATTTACTGTCAT--CTCA-ATTCTG
+            .||||..    ||..|. ||.||  |    ||.  |.   ||| ||.  || | ||.|||
+Seq2  1892  ACATCGGCGGCGCCCTG-TCCAAGCT----GAGCGAG---CTG-CACGCCT-ACATCCTG
+
+Seq1  1600  TGTTTTGATTACTTGTNTTTCTTGCAAGGATTAATG------------TGAAATATTTAT
+            .|..|.||.  |..||... ||| |||||     ||            ||          
+Seq2  1942  CGCGTGGAC--CCGGTCAA-CTT-CAAGG-----TGCGCGGGGCGCGGTG----------
+
+Seq1  1648  TATATAAAGCAGTTNGGGCA--------TGCTGGAGGGATGGAAGTGAGGG
+                     |.|...||||.        |||.||.|||..||   ||.|||
+Seq2  1983  ---------CGGGCGGGGCGGGGCGCGGTGCGGGCGGGGCGG---TGCGGG
